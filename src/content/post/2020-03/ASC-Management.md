@@ -1,7 +1,7 @@
 ---
 title: "ASC Management"
 description: "아마존 셀러 센트럴 관리 통한 브랜드 성장 및 판매 효율 극대화"
-publishDate: "11 Mar 2024"
+publishDate: "11 Mar 2020"
 tags: ["ASC Management", "Amazon Seller Central", "아마존 판매 관리", "이커머스 전략"]
 ---
 

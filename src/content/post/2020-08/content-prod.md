@@ -1,7 +1,7 @@
 ---
 title: "Content Production"
 description: "전략적 콘텐츠 제작으로 브랜드 메시지 강화, 다채널 소통 및 고객 참여 극대화"
-publishDate: "15 Aug 2024"
+publishDate: "15 Aug 2020"
 tags: ["Content Production", "콘텐츠 제작", "마케팅 콘텐츠", "브랜드 스토리텔링", "채널 전략"]
 ---
 

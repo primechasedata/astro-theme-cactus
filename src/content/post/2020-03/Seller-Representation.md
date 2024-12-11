@@ -1,7 +1,7 @@
 ---
 title: "Seller Representation"
 description: "브랜드의 북미 시장 진출 및 운영 대행"
-publishDate: "21 Mar 2024"
+publishDate: "21 Mar 2020"
 tags: ["Seller Representation", "브랜드 대리", "북미 시장 진출", "유통 전략"]
 ---
 

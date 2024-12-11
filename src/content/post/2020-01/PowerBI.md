@@ -2,6 +2,7 @@
 title: "Power BI - Unlock the Power of Your Data"
 description: "Power BI - Prime Chase Data service offerings"
 publishDate: "19 Jan 2020"
+updatedDate: "21 Jul 2021"
 tags: ["Power BI", "Data Analytics", "Business Intelligence"]
 ---
 

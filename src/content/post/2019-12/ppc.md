@@ -4,7 +4,7 @@ description: "PPC - Prime Chase Data service offerings"
 publishDate: "06 Dec 2019"
 tags: ["PPC", "Google Ads", "Google"]
 ---
-```md
+
 # Google Ads & Search Engine Advertising
 
 Search Engine Advertising (SEA) lets you place your message right where your audience is looking—on top of search engine results pages (SERPs), within the Google Display Network, or even on YouTube. While **Google Ads** remains the go-to platform in the U.S., others like **Microsoft Advertising (Bing Ads)** can supplement your approach, potentially reaching segments of your audience that rely on alternative search engines.
@@ -143,4 +143,3 @@ Whether you need help conducting keyword research, refining your bidding strateg
 - Deliver measurable, transparent results that drive your growth.
 
 Contact us today to discuss your project, and let’s build PPC campaigns that elevate your brand and maximize your return on investment.
-```

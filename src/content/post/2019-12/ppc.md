@@ -1,145 +1,127 @@
 ---
 title: "PPC - Google Ads"
-description: "PPC - Prime Chase Data service offerings"
+description: "PPC - Prime Chase Data 서비스 제공"
 publishDate: "06 Dec 2019"
 tags: ["PPC", "Google Ads", "Google"]
 ---
 
-# Google Ads & Search Engine Advertising
+# Google Ads & 검색 엔진 광고
 
-Search Engine Advertising (SEA) lets you place your message right where your audience is looking—on top of search engine results pages (SERPs), within the Google Display Network, or even on YouTube. While **Google Ads** remains the go-to platform in the U.S., others like **Microsoft Advertising (Bing Ads)** can supplement your approach, potentially reaching segments of your audience that rely on alternative search engines.
+검색 엔진 광고(SEA)를 활용하면 잠재 고객이 제품이나 서비스를 찾는 순간, 검색 결과 페이지 상단부터 구글 디스플레이 네트워크, 유튜브까지 원하는 메시지를 직접 노출할 수 있습니다. 미국 시장에서 **Google Ads**는 가장 널리 사용되는 플랫폼이며, 여기에 **Microsoft Advertising(Bing Ads)**를 보완적으로 활용해 다른 검색 엔진을 선호하는 사용자까지 공략할 수 있습니다.
 
-At Prime Chase Data, we see paid ads not as intrusive interruptions but as strategic invitations. By aligning your ads with the user’s search intent, we build trust and encourage meaningful interactions. As a **certified Google Ads agency based in Brooklyn**, we leverage best practices, official Google training, and hands-on experience to manage your budget wisely and deliver the strongest possible return on investment (ROI).
+Prime Chase Data는 유료 광고를 단순한 방해 요소가 아닌, 전략적 초대장으로 바라봅니다. 사용자 검색 의도에 맞추어 광고를 최적화함으로써 신뢰를 쌓고 의미 있는 상호작용을 이끌어냅니다. **브루클린에 기반을 둔 공식 Google Ads 인증 에이전시**로서, 우리는 검증된 베스트 프랙티스, 구글의 공식 교육, 그리고 현장 경험을 바탕으로 예산을 효율적으로 관리하고 최대 ROI를 실현합니다.
 
-## Why Paid Search Matters
+## 유료 검색 광고가 중요한 이유
 
-Unlike organic search, where results rely on long-term SEO strategies, Google Ads can produce immediate visibility—often within hours of launching a campaign. You gain full control over:
+오가닉 검색은 장기적인 SEO 전략에 의존하는 반면, Google Ads는 캠페인 시작 후 몇 시간 만에 즉각적 노출을 확보할 수 있습니다. 이를 통해 다음과 같은 장점을 얻을 수 있습니다:
 
-- **Budget:** Set daily caps to avoid overspending.
-- **Messaging:** Tailor ads to user intent and seasonal promotions.
-- **Geographic & Demographic Targeting:** Show ads in select regions or to specific demographic groups.
-- **Timely Adjustments:** Pause underperforming keywords, test new ad variations, and refine landing pages in real-time.
+- **예산 제어:** 일일 예산 상한을 설정해 과도한 지출을 방지합니다.
+- **메시지 최적화:** 사용자 의도나 시즌별 프로모션에 맞춰 광고 카피를 조정합니다.
+- **지리·인구통계학적 타겟팅:** 특정 지역, 연령, 성별 등 원하는 조건에 맞게 광고 노출 범위를 설정합니다.
+- **실시간 최적화:** 성과가 저조한 키워드를 일시 중단하거나, 새로운 광고 크리에이티브를 테스트하고, 랜딩 페이지를 즉각 수정할 수 있습니다.
 
-This control allows for **transparent and measurable results**, making SEA one of the most data-driven forms of online marketing.
+이러한 관리 능력은 **투명하고 측정 가능한 결과**를 제공하며, SEA를 가장 데이터 중심적인 온라인 마케팅 채널 중 하나로 만듭니다.
 
-## Our Approach
+## 우리의 접근 방식
 
-Our strategies start with clear goals and detailed planning. We offer:
+우리의 전략은 명확한 목표 수립과 세밀한 계획에서 시작됩니다. 제공 서비스는 다음과 같습니다:
 
-- **In-Depth Account Audits:** We’ll analyze your existing Google Ads account, identify inefficiencies, and provide actionable roadmaps.
-- **Consulting & Training:** We train your in-house team to manage campaigns effectively, so you can maintain control over your marketing.
-- **Full-Service Management:** From setup to ongoing optimization and reporting, we handle every aspect of your campaigns, ensuring you get consistent, measurable growth.
+- **심층 계정 진단:** 기존 Google Ads 계정을 분석해 비효율성을 찾아내고, 실행 가능한 개선 로드맵을 제시합니다.
+- **컨설팅 & 교육:** 사내 팀이 직접 캠페인을 운영할 수 있도록 교육하고 조언을 제공해, 귀사가 마케팅에 주도적으로 나설 수 있게 합니다.
+- **토털 매니지먼트:** 설정부터 지속적인 최적화, 성과 보고에 이르기까지 모든 과정을 대행하여, 안정적이고 측정 가능한 성장세를 확보합니다.
 
-## Keyword Strategy: The Foundation of Effective SEA
+## 키워드 전략: 효과적인 SEA의 기초
 
-Pay-per-click (PPC) advertising is inherently keyword-driven. You pay for each click, so every keyword should drive value. Our keyword research process involves:
+PPC 광고는 본질적으로 키워드 기반입니다. 클릭당 비용을 지불하는 방식이므로, 선택하는 키워드마다 실질적인 가치를 창출해야 합니다. 우리의 키워드 연구 과정은 다음과 같습니다:
 
-- **Identifying User Queries:** We find the actual search terms your audience uses when seeking products or services like yours.
-- **Assessing Intent:** We distinguish between informational queries (“how to fix a leaky faucet”), navigational queries (“brand name login”), and transactional queries (“buy running shoes online”) to ensure ads appear only at relevant moments.
-- **Evaluating Competitiveness:** High-volume keywords might cost more and yield broad traffic, while more specific (long-tail) keywords may cost less and attract users closer to making a purchase.
+- **사용자 검색어 파악:** 고객이 어떤 단어와 문구로 제품·서비스를 찾는지 조사합니다.
+- **의도 분석:** 단순 정보 탐색(예: “싱크대 수리 방법”), 내비게이션 목적(“브랜드명 로그인”), 거래 목적(“러닝화 온라인 구매”) 등 사용 의도를 파악해, 적절한 지점에서 광고를 노출합니다.
+- **경쟁도 평가:** 검색량이 많은 키워드는 비용이 높고 범용 트래픽을 유도할 수 있으며, 좀 더 구체적인 롱테일 키워드는 비용을 줄이고 구매 의향이 높은 고객을 유인할 수 있습니다.
 
-By selecting the right mix of keywords, we control spend, attract qualified prospects, and drive higher conversion rates.
+올바른 키워드 조합을 통해 광고 비용을 통제하고, 적합한 고객을 끌어오며, 전환율을 극대화합니다.
 
-## Campaign Setup for Precision and Control
+## 정교하고 체계적인 캠페인 설정
 
-Building a well-structured Google Ads account is crucial. We pay attention to:
+탄탄한 Google Ads 계정 구조는 성공적인 캠페인의 기본입니다. 우리는 다음을 주의 깊게 구성합니다:
 
-- **Account Hierarchy:**  
-  - **Account:** Your overarching login and billing details.  
-  - **Campaigns:** High-level segments usually divided by product category, brand vs. non-brand terms, or geography.  
-  - **Ad Groups:** Focused clusters of keywords within each campaign, ensuring ads and keywords align tightly around a central theme.
+- **계정(Account):** 로그인 및 결제 정보 등 계정 전반에 걸친 기본 설정
+- **캠페인(Campaigns):** 제품 카테고리, 브랜드/비브랜드 키워드, 지역 단위 등으로 나눈 상위 그룹
+- **광고 그룹(Ad Groups):** 특정 키워드 주제에 맞춰 광고와 키워드를 정렬해, 광고 메시지와 키워드의 관련성을 극대화
 
-This structure lets us tailor ads closely to user queries, improving your **Quality Score**—Google’s measure of relevance. Higher quality scores lead to lower costs per click (CPC) and better ad placement.
+이러한 구조화로 **품질 점수(Quality Score)**를 개선할 수 있습니다. 품질 점수가 높을수록 CPC(클릭당 비용)가 낮아지고 더 좋은 위치에 광고가 노출됩니다.
 
-### Technical Considerations and Best Practices
+### 기술적 고려사항 및 베스트 프랙티스
 
-We fine-tune settings such as:
+다양한 세팅을 정밀 조정합니다:
 
-- **Bidding Strategies:**  
-  - **Manual Bidding:** Greater control, but requires more time.  
-  - **Automated Bidding (e.g., Target CPA, Target ROAS):** Uses machine learning to optimize bids based on your goals.
-- **Ad Scheduling:** Show ads during peak times when users are most likely to convert.
-- **Geographic Targeting:** Restrict campaigns to certain countries, states, or even zip codes for hyper-local relevance.
-- **Device Targeting:** Increase bids for mobile if data shows mobile users convert better.
+- **입찰 전략:**  
+  - 수동 입찰: 직접 통제하지만 시간과 노력이 필요  
+  - 자동 입찰(예: 목표 CPA, 목표 ROAS): 머신러닝을 활용해 목표 기반으로 입찰 최적화
+- **광고 일정 설정:** 전환율이 높은 시간대에 광고 노출을 집중시킵니다.
+- **지리적 타겟팅:** 국가, 주, 특정 우편번호 단위로 광고 범위를 제한해 지역 타겟팅을 정교화합니다.
+- **디바이스 타겟팅:** 모바일 사용자 전환율이 높다면, 모바일에 입찰가를 상향 조정할 수 있습니다.
 
-We also ensure compliance with Google’s policies to maintain account health and avoid disapprovals that can harm campaign performance.
+또한 Google 정책을 준수해 계정이 정상 상태를 유지하고, 광고 불승인 문제를 방지합니다.
 
-## Crafting Effective Ad Copy & Creative Assets
+## 효과적인 광고 카피 및 크리에이티브 제작
 
-A compelling ad is concise yet impactful. We consider:
+강렬하지만 간결한 광고는 사용자의 이목을 끌고, 검색 의도에 부합해야 합니다. 우리는 다음을 고려합니다:
 
-- **Headline & Description:** Directly address the user’s query and highlight your key value proposition (e.g., free shipping, limited-time discount, unique product features).
-- **Call-to-Action (CTA):** Clear instructions that encourage immediate action, such as “Shop Now” or “Get a Quote.”
-- **Ad Extensions:** Add extra information like site links, phone numbers, or location details to improve click-through rates and provide more value to users.
+- **헤드라인 & 설명:** 사용자의 검색 의도를 직접적으로 충족하고 핵심 가치를 전달(예: 무료 배송, 한정 할인, 차별화된 제품 특징)
+- **명확한 CTA:** “지금 구매” “견적 요청” 등 즉각적 행동을 유도하는 문구 활용
+- **광고 확장 기능:** 사이트 링크, 전화번호, 위치 정보 등을 추가해 클릭률을 높이고 사용자 경험을 강화
 
-For display and video ads, we ensure visuals and messaging align with your brand identity, resonate with your target audience, and guide users smoothly into your sales funnel.
+디스플레이 및 동영상 광고의 경우, 브랜드 아이덴티티에 맞는 시각 요소와 메시지를 활용해 사용자가 매끄럽게 판매 여정에 진입하도록 돕습니다.
 
-## Landing Pages: Converting Clicks into Customers
+## 랜딩 페이지 최적화: 클릭을 고객으로 전환
 
-Every user who clicks on your ad expects a relevant, user-friendly landing page. We optimize landing pages to:
+광고를 클릭한 사용자는 관련성 있고 사용하기 쉬운 랜딩 페이지를 기대합니다. 이를 위해 다음에 주력합니다:
 
-- **Match the Ad’s Promise:** Keep messaging consistent with what the ad offered.
-- **Streamline the User Experience:** Highlight critical information above the fold, use clean navigation, and ensure fast load times.
-- **Encourage Action:** Include clear CTAs and easy-to-complete forms or checkout processes.
+- **광고와 메시지 일치:** 광고에서 약속한 내용을 랜딩 페이지에서도 동일하게 전달합니다.
+- **사용자 경험 개선:** 중요 정보를 페이지 상단에 배치하고 직관적 네비게이션, 빠른 로딩 속도를 제공
+- **행동 유도:** 명확한 CTA와 간편한 폼, 쉬운 결제 과정을 통해 전환율을 극대화합니다.
 
-This approach reduces bounce rates, increases conversions, and improves the overall profitability of your campaigns.
+이로써 이탈률을 줄이고 전환을 증가시켜 전체 캠페인 효율성을 높입니다.
 
-## Transparent Tracking & Reporting
+## 투명한 추적 및 보고
 
-We set up conversion tracking and integrate with analytics tools (like Google Analytics) to measure results:
+전환 추적 설정과 Google Analytics와의 연동으로 다음을 모니터링합니다:
 
-- **Key Metrics:** Cost per acquisition (CPA), return on ad spend (ROAS), click-through rate (CTR), and conversion rate.
-- **Attribution Modeling:** Understand which keywords, ads, or channels contribute most to a sale or lead.
-- **Continuous Optimization:** We use data insights to pause ineffective keywords, test new ads, refine bids, and improve targeting strategies over time.
+- **핵심 지표:** CPA(획득당 비용), ROAS(광고비 대비 수익률), CTR(클릭률), 전환율 등
+- **기여도 모델링:** 어떤 키워드, 광고, 채널이 매출 또는 리드 창출에 가장 크게 기여하는지 분석
+- **지속적 최적화:** 데이터를 기반으로 비효율적인 키워드를 중단, 새로운 광고 실험, 입찰가 조정 등 지속 개선을 추진
 
-This data-driven approach ensures we continuously fine-tune your campaigns for maximum ROI.
+데이터 중심의 접근을 통해 캠페인을 꾸준히 미세 조정하며 최상의 ROI를 달성합니다.
 
-## Targeting Options: Reaching the Right Audience
+## 타겟팅 옵션: 적절한 고객에게 도달
 
-Besides keyword targeting, we leverage advanced options to pinpoint your ideal customers:
+키워드 타겟팅 외에도 다음과 같은 고급 타겟팅을 활용합니다:
 
-- **Remarketing:** Re-engage users who visited your site but didn’t convert, encouraging them to return and complete an action.
-- **Demographic Targeting:** Filter by age, gender, or household income if it suits your product or service.
-- **Geographic Focus:** Reach local customers or expand nationally and internationally.
-- **Custom Audiences:** Build groups based on user behavior, interests, or competitor website visits.
+- **리마케팅:** 사이트 방문 후 이탈한 사용자에게 다시 광고를 노출하여 전환을 유도
+- **인구통계학적 타겟팅:** 나이, 성별, 소득 수준 등 조건별 광고 노출
+- **지리적 초점:** 지역 고객 공략 또는 전국·글로벌 시장 확장
+- **맞춤 오디언스:** 사용자 행동, 관심사, 경쟁사 사이트 방문 여부 등을 기준으로 세분화
 
-Combining these strategies helps you put the right message in front of the right people at the right time.
+이러한 전략 조합으로 적절한 사람에게 제때 정확한 메시지를 전달합니다.
 
-## Ad Formats for Every Goal
+## 목표별 광고 형식
 
-We use all major Google Ads formats, choosing those that best meet your objectives:
+다양한 Google Ads 형식을 활용해 목표에 맞는 최적의 전략을 수립합니다:
 
-- **Search Ads:** Immediate visibility on SERPs for users actively searching for what you offer.
-- **Display Ads:** Visual banners that reach users as they browse relevant content across the web.
-- **YouTube Ads:** Video content to build brand awareness, educate viewers, or showcase product features.
-- **Shopping Ads:** Product listings that highlight your offerings with images and pricing—ideal for e-commerce.
-- **Gmail Ads:** Reach potential customers within their inbox, offering interactive, expanded ad formats.
+- **검색 광고:** 검색 결과 상단 노출로 적극적으로 정보를 찾는 사용자에게 즉각적인 브랜드 인지 제공
+- **디스플레이 광고:** 관련 콘텐츠를 소비하는 사용자에게 시각적 배너 광고 노출
+- **유튜브 광고:** 영상 콘텐츠로 브랜드 인지도 강화, 제품 시연, 교육 콘텐츠 전달
+- **쇼핑 광고:** 이미지와 가격 정보를 통해 이커머스 제품을 한눈에 알리고 구매 의사 결정을 쉽게 함
+- **Gmail 광고:** 사용자의 이메일 인박스에서 브랜드와 소통할 수 있는 인터랙티브 광고 포맷 활용
 
-## Industries We Serve
+## 다양한 산업에서의 성공 경험
 
-Our experience spans a range of sectors, but our process remains consistent: identify your goals, craft strategies, and optimize for results. We’ve helped businesses in:
-
-- **E-commerce & Retail**
-- **Healthcare**
-- **Legal Services**
-- **Hospitality**
-- **Real Estate**
-- **IT/Cybersecurity**
-- **Government**
-- **Finance**
-- **International & Multilingual Campaigns**
-- **B2B Markets**
-
-No matter your industry, we adapt PPC principles to serve your unique needs and objectives.
+우리는 이커머스, 헬스케어, 법률 서비스, 호스피탈리티, 부동산, IT/사이버보안, 정부기관, 금융, 국제·다언어 캠페인, B2B 등 다양한 분야와 협업해 왔습니다. 산업 분야별로 세부 조정이 필요하지만, PPC 기본 원칙은 변하지 않습니다. 우리 접근 방식은 각 업종과 목표에 맞추어 유연하게 적용됩니다.
 
 ---
 
-## Tell Us About Your Project
+## 프로젝트에 대해 알려주세요
 
-Whether you need help conducting keyword research, refining your bidding strategy, or enhancing your landing pages, Prime Chase Data has the expertise to support you. We’ll work closely with you to develop and manage campaigns that:
+키워드 리서치, 입찰 전략 개선, 랜딩 페이지 최적화 등 어떤 도움이 필요하든 Prime Chase Data는 전문 지식을 바탕으로 지원합니다. 브랜드 가치와 고객 니즈에 부합하고, 투명하며 측정 가능한 결과를 제공하는 캠페인을 함께 구축합시다.
 
-- Align with your brand’s voice and values.
-- Address the specific pain points of your audience.
-- Deliver measurable, transparent results that drive your growth.
-
-Contact us today to discuss your project, and let’s build PPC campaigns that elevate your brand and maximize your return on investment.
+지금 문의하시어 PPC 캠페인을 성장 엔진으로 전환하고, 투자 대비 최대 성과를 달성해 보세요.
